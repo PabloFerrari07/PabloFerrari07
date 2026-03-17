@@ -6,13 +6,17 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: I am a `Junior Developer` with experience in `C#`, `.NET`, `Python`, and `React`.
-- :technologist: Passionate about creating practical solutions through `software development`.
-- :computer: I specialize in developing `APIs`, `CRUD systems`, `user and reservation management`, and `shopping cart systems`.
-- :globe_with_meridians: I have worked on projects integrating `.NET` or `Flask` backends with `React` or pure `JavaScript` frontends.
-- :hammer_and_wrench: Currently focused on improving my skills in `web development`, building complete systems, and `task automation`.
-- :nerd_face: Always eager to `learn new technologies`, methodologies, and best practices.
+ Backend Developer with experience in C#, .NET, Python (Django/Flask), and React.
 
+ Currently working on backend development at Bitennial, building and maintaining APIs, implementing authentication flows, fixing production bugs, and developing new features in Django-based systems.
+
+ Experienced in JWT authentication, user management, password recovery flows, email verification systems, and backoffice/admin tools.
+
+ I have developed full-stack applications integrating .NET or Python backends with React or JavaScript frontends, including reservation systems, dashboards, and API-driven platforms.
+
+ Focused on writing clean, maintainable code, improving system security, and building scalable web applications.
+
+ Always learning and improving my skills in backend architecture, APIs, and modern web development practices.
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
